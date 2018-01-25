@@ -29,6 +29,10 @@ html {
  
 }
 
+.player {
+  align: center;
+}
+
 .footer {
   font-weight: bold;
   padding: 22px;
