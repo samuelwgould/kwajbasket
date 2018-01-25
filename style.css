@@ -5,6 +5,7 @@ body {
   line-height: 1.5;
   text-align: center;
   margin: 20px;
+  padding: 35px;
   color: #d9d9d9;  
   width: 100%;
 }
@@ -20,7 +21,7 @@ html {
   text-align: center;
   font-weight: bold;
   font-size 40px;
-  margin: 10px;
+  margin: 20px;
   padding-bottom: 40px;
   width: 100%;
   
@@ -35,7 +36,8 @@ html {
 .footer {
   font-weight: bold;
   text-align: center;
-  margin: 10px;
+  margin: 20px;
+  padding: 35px;
   width: 100%;
 }
 
