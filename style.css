@@ -39,7 +39,7 @@ html {
   width: 100%;
 }
 
-a {
+a, .footer {
   background-color: hsl(0, 0%, 85%);
 }
   
