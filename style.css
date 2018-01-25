@@ -6,7 +6,8 @@ body {
   line-height: 1.5;
   font-weight: 500;
   text-align: center;
-  padding: 100px;
+  margin: 300px;
+  padding: 50px;
   
 }
 
@@ -15,7 +16,6 @@ html {
   background-position: center top;
   background-size: cover;
   background-repeat: no-repeat;
-  margin: 0;
   text-align: center;
   color: white;
 }
@@ -25,6 +25,7 @@ html {
   border: 3px solid black;
   text-align: center;
   font-weight: bold;
+  font-size 50px;
  
 }
 
