@@ -3,9 +3,9 @@ body {
   background-image: url("https://f4.bcbits.com/img/a1111947712_10.jpg");
   background-position: center top;
   background-size: cover;
-  margin: 0;
+  margin: 1;
   text-align: center;
-  background-color: light-grey;
+  background-color: grey;
 }
 
 html, body {
