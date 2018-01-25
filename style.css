@@ -6,8 +6,8 @@ body {
   line-height: 1.5;
   font-weight: 500;
   text-align: center;
-  margin: 100px;
-  padding: 50px;
+  margin: 22px;
+  padding: 22px;
   color: white;  
 }
 
@@ -29,8 +29,8 @@ html {
 
 .footer {
   font-weight: bold;
-  padding: 100px;
+  padding: 22px;
   text-align: center;
-  margin: 100px;
+  margin: 22px;
 }
   
