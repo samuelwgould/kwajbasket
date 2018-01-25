@@ -16,12 +16,14 @@ html {
   background-repeat: no-repeat;
   margin: 0;
   text-align: center;
+  color: #fdf5e6;
 }
 
 .navbar {
   padding: 30px;
   border: 2px solid black;
   text-align: center;
+  color: #fdf5e6;
 }
 
 img {
@@ -35,5 +37,6 @@ img {
   padding: 30px;
   border: 2px solid black;
   text-align: center;
+  color: #fdf5e6;
 }
   
