@@ -13,17 +13,17 @@ body {
   line-height: 1.5;
 }
 
-navbar {
+.navbar {
   padding: 30px;
   border: 2px solid black;
 }
 
-image {
+img {
   width: 150px;
   position: center;
   height: auto;
 }
-footer {
+.footer {
   font-weight: bold;
   padding: 30px;
   border: 2px solid black;
