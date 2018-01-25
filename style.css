@@ -23,13 +23,13 @@ html {
   font-size 40px;
   margin: 20px;
   padding-bottom: 40px;
-  width: 100%;
+  width: 75%;
   
  
 }
 
 .player {
-  align: left;
+  align: center;
   margin: 20px;
 }
 
@@ -38,6 +38,6 @@ html {
   text-align: center;
   margin: 20px;
   padding: 35px;
-  width: 50%;
+  width: 75%;
 }
 
