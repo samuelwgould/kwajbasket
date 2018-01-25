@@ -18,12 +18,12 @@ html {
 }
 
 .navbar {
-  text-align: center;
+  text-align: left;
   font-weight: bold;
-  font-size 40px;
+  font-size 45px;
   margin: 20px;
   padding-bottom: 40px;
-  width: 75%;
+  width: 100%;
   
  
 }
