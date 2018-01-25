@@ -37,6 +37,9 @@ html {
   text-align: center;
   margin: 10px;
   width: 100%;
+}
+
+a {
   background-color: hsl(0, 0%, 85%);
   opacity: .5;
 }
