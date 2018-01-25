@@ -9,6 +9,7 @@ body {
   margin: 22px;
   padding: 22px;
   color: white;  
+  width: 100%;
 }
 
 html {
@@ -24,6 +25,7 @@ html {
   font-weight: bold;
   font-size 50px;
   margin: 10px;
+  width: 100%;
  
 }
 
@@ -32,5 +34,6 @@ html {
   padding: 22px;
   text-align: center;
   margin: 22px;
+  width: 100%;
 }
   
