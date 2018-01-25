@@ -1,11 +1,12 @@
 body {
   font-family: Arial, sans-serif
-  text-align: center;
+  align: center;
   background-color:;
   min-height: 100%;
   display: flex;
   flex-direction: column;
   line-height: 1.5;
+  font-weight: 500;
 }
 
 html {
