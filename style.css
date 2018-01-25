@@ -1,1 +1,9 @@
-
+body {
+  font-family: "Quicksand", sans-serif
+  background-image: url('https://f4.bcbits.com/img/a1111947712_10.jpg');
+  background-position: center top;
+  background-size: cover;
+  margin: 0;
+  text-align: center;
+  font-weight: 100;
+}
