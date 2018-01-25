@@ -1,6 +1,6 @@
 body {
   font-family: 'Quicksand', Arial, sans-serif
-  background-image: url("https://goo.gl/images/Rh1DRQ");
+  background-image: url("https://f4.bcbits.com/img/a4017450881_10.jpg");
   background-position: center top;
   background-size: cover;
   margin: 1;
@@ -16,7 +16,12 @@ html, body {
   line-height: 1.5;
 }
 
+.navbar {
+  padding: 30px;
+  border: 2px black;
+}
+
 .image {
-  width:75%;
+  width: 75%;
 }
   
