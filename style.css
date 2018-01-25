@@ -1,9 +1,9 @@
 body {
-  font-family: 'Muli', serif;
+  font-family: 'Muli', sans-serif;
   font-size: 20px;
   min-height: 100%;
   line-height: 1.5;
-  text-align: left;
+  text-align: center;
   margin: 20px;
   color: #d9d9d9;  
   width: 100%;
@@ -17,7 +17,7 @@ html {
 }
 
 .navbar {
-  text-align: left;
+  text-align: center;
   font-weight: bold;
   font-size 40px;
   margin: 10px;
@@ -34,7 +34,7 @@ html {
 
 .footer {
   font-weight: bold;
-  text-align: left;
+  text-align: center;
   margin: 10px;
   width: 100%;
 }
