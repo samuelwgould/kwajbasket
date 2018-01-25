@@ -18,10 +18,10 @@ html {
 }
 
 .navbar {
-  text-align: left;
+  text-align: center;
   font-weight: bold;
   font-size 45px;
-  margin: 20px;
+  margin: 10px;
   padding-bottom: 40px;
   width: 100%;
   
@@ -39,5 +39,6 @@ html {
   margin: 20px;
   padding: 35px;
   width: 75%;
+  position: static;
 }
 
