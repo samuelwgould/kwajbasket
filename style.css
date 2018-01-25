@@ -1,6 +1,6 @@
 body {
   font-family: 'Quicksand', Arial, sans-serif
-  background-image: url("https://f4.bcbits.com/img/a4017450881_10.jpg");
+  background-image: url("https://f4.bcbits.com/img/a2294252187_10.jpg");
   background-position: center top;
   background-size: cover;
   margin: 1;
@@ -22,6 +22,8 @@ html, body {
 }
 
 .image {
-  width: 75%;
+  width: 300px;
+  position: center;
+  height: auto;
 }
   
