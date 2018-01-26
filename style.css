@@ -1,10 +1,40 @@
 .navbar {
       margin-bottom: 0;
       border-radius: 0;
+      padding: 3px;
+      color: ;
     }
+.jumbotron {
+      padding: 80px;
+      
+}
+
+.bg-3 {
+  background-color: #e6e6e6;
+  
+}
+
     
    
 footer {
-      background-color: #f2f2f2;
-      padding: 25px;
+      background-color: #cccccc;
+      padding: 20px;
+      font-size: 20px; 
+      border: 1px solid black;
+      display: flex;
+      justify-content: space-between;
     }
+
+#main {
+  font-size: 26px;
+}
+
+p {
+  font-family: 'Montserrat', sans-serif; 
+  font-size: 18px;  
+}
+
+.logo {
+  font-size: 26px;
+  font-weight: bold;
+}
