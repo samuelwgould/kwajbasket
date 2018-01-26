@@ -1,13 +1,15 @@
+html {
+  min-width: 700px;
+}
+
 .navbar {
       margin-bottom: 0;
       border-radius: 0;
-      padding: 3px;
-      color: ;
+      padding: 7px;
     }
 
 .jumbotron {
-      padding: 80px;
-      
+      padding: 115px;     
 }
 
 .bg-3 {
@@ -20,15 +22,21 @@ footer {
       font-size: 20px; 
       border: 1px solid black;
       display: grid;
-      grid-auto-rows: 50px;
-      align-items: center; 
-      grid-auto-flow: column;
-      align-content: center;
+      text-align: center; 
+      overflow: auto;
+      align-content: space-evenly;
+      white-space: nowrap;
     }
 
 .social {
-  width: ;
+  display: inline-block;
+  vertical-align: middle;
+  width: 20%;
+  margin: 1px;
+  min-width: 50px;
+  
 }
+
 
 #main {
   font-size: 26px;
@@ -36,7 +44,7 @@ footer {
 
 p {
   font-family: 'Montserrat', Garamond, sans-serif; 
-  font-size: 18px;  
+  font-size: 15px;  
 }
 
 .logo {
