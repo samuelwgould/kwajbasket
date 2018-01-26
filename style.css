@@ -19,9 +19,16 @@ footer {
       padding: 20px;
       font-size: 20px; 
       border: 1px solid black;
-      display: flex;
-      justify-content: space-between;
+      display: grid;
+      grid-auto-rows: 50px;
+      align-items: center; 
+      grid-auto-flow: column;
+      align-content: center;
     }
+
+.social {
+  width: ;
+}
 
 #main {
   font-size: 26px;
@@ -36,4 +43,3 @@ p {
   font-size: 26px;
   font-weight: bold;
 }
- 
