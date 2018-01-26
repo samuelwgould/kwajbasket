@@ -4,18 +4,16 @@
       padding: 3px;
       color: ;
     }
+
 .jumbotron {
       padding: 80px;
       
 }
 
 .bg-3 {
-  background-color: #e6e6e6;
-  
+  background-color: #e6e6e6; 
 }
-
-    
-   
+  
 footer {
       background-color: #cccccc;
       padding: 20px;
@@ -30,7 +28,7 @@ footer {
 }
 
 p {
-  font-family: 'Montserrat', sans-serif; 
+  font-family: 'Montserrat', Garamond, sans-serif; 
   font-size: 18px;  
 }
 
