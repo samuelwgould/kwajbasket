@@ -8,10 +8,6 @@ html {
       padding: 7px;
     }
 
-.jumbotron {
-      padding: 115px;     
-}
-
 .bg-3 {
   background-color: #e6e6e6; 
 }
@@ -33,14 +29,71 @@ footer {
   vertical-align: middle;
   width: 20%;
   margin: 1px;
-  min-width: 50px;
-  
+  min-width: 50px;  
 }
 
+.social:hover {
+  transform: scale(1.5);
+}
+
+#wrapper .text {
+visibility:hidden;
+position: absolute;
+top: 10%;
+left: 50%;
+transform: translate(-50%, -50%);
+color:  #e6e6e6; 
+z-index: 1;
+}
+
+#wrapper:hover .text {
+visibility:visible;
+}
+
+.col-sm-3:hover {  
+  transform: scale(1.10);
+}
+
+.navbar-header:hover {
+  transform: scale(1.15);
+}
+li:hover {
+  transform: scale(1.20);
+}
+
+img:hover {
+  opacity: .85;
+  z-index: -1;
+}
+
+.text {
+  font-style: normal;
+  font-size: 15px;
+  color: white; 
+}
+
+#here:hover {
+  color: #FFFFFF;
+}
+
+#about {
+  background-image: url(https://f4.bcbits.com/img/a2294252187_10.jpg);
+  background-size: cover;
+  background-color: #808080;
+  height: 500px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  word-wrap: normal;
+  z-index: -1;
+}
 
 #main {
   font-size: 26px;
+  color:  #e6e6e6;
+  z-index: 1;
 }
+
 
 p {
   font-family: 'Montserrat', Garamond, sans-serif; 
