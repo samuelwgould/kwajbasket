@@ -83,8 +83,6 @@ img:hover {
   height: 500px;
   display: flex;
   align-items: center;
-  text-align: center;
-  word-wrap: normal;
   z-index: -1;
 }
 
@@ -92,6 +90,9 @@ img:hover {
   font-size: 26px;
   color:  #e6e6e6;
   z-index: 1;
+  text-align: center;
+  word-wrap: normal;
+  padding:  50px;
 }
 
 
