@@ -59,10 +59,10 @@ img:hover {
 }
 
 #about {
-  background-image: url(https://i.imgur.com/Lt1fiq8.jpg);
+  background-image: url(https://i.imgur.com/xnLwKnf.jpg);
   background-size: cover;
   background-color: #808080;
-  height: auto;
+  height: 800px;
   width: auto;
   display: grid;
   align-content: center;
