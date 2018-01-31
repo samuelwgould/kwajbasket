@@ -1,5 +1,5 @@
 html {
-  min-width: 800px;
+  min-width: 466px;
 }
 
 .navbar {
@@ -54,7 +54,7 @@ img:hover {
 
 .text {
   font-style: normal;
-  font-size: 13px;
+  font-size: 1em;
   color: white; 
 }
 
@@ -70,7 +70,7 @@ img:hover {
 }
 
 #main {
-  font-size: 23px;
+  font-size: 2em;
   color:  #e6e6e6; 
   text-align: center;
   word-wrap: normal;
@@ -80,7 +80,7 @@ img:hover {
 
 p {
   font-family: 'Montserrat', Garamond, sans-serif; 
-  font-size: 15px;  
+  font-size: 1.2em;  
 }
 
 #copyright {
@@ -92,11 +92,11 @@ p {
 }
 
 #cpytxt {
-  font-size: 12px;
+  font-size: 1em;
   text-align: center;
 }
 
 .logo {
-  font-size: 26px;
+  font-size: 2em;
   font-weight: bold;
 }
