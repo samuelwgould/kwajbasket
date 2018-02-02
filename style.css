@@ -2,7 +2,14 @@
       margin-bottom: 0;
       border-radius: 0;
       padding: 7px;
+      border-bottom: 1px solid black;
     }
+
+
+.landing {
+    margin-top: -20px;
+}
+   
 
 .bg-3 {
   background-color: #e6e6e6; 
@@ -16,6 +23,7 @@ footer {
       overflow: auto;
       align-content: space-evenly;
       white-space: nowrap;
+      border-top: 1px solid black;
     }
 
 .social {
@@ -57,12 +65,15 @@ img:hover {
 #about {
   background-image: url(https://i.imgur.com/xnLwKnf.jpg);
   background-size: cover;
-  background-color: #808080;
+  background-color: #e6e6e6;
   height: 800px;
   width: auto;
   display: grid;
   align-content: center;
   align-items: center;
+  margin-bottom: 0px;
+  margin-right: auto;
+  margin-left: auto;
 }
 
 #main {
@@ -70,7 +81,23 @@ img:hover {
   color:  #e6e6e6; 
   text-align: center;
   word-wrap: normal;
-  padding:  50px;
+  padding:  50px; 
+  text-shadow: 1px 1px black;
+}
+
+#pg2 {
+    font-size: 1.3em;
+    color:  #e6e6e6; 
+    text-align: center;
+    word-wrap: normal;
+    padding:  50px; 
+    text-shadow: 1px 1px black;
+}
+
+#music {
+    margin-top: 0px;
+    background-color: #e6e6e6;
+    padding: 30px;
 }
 
 
@@ -95,4 +122,21 @@ p {
 .logo {
   font-size: 2em;
   font-weight: bold;
+}
+
+#about2 {
+  width: 100%;
+  display: flex;
+  align-content: center;
+  align-items: center;
+  margin-bottom: 0px;
+  margin-right: auto;
+  margin-left: auto;
+  background-image: ;
+  background-size: cover;
+  height: 100%;
+  background-color: #101010;
+  padding-top: 50px;
+padding-bottom: 50px;
+  
 }
