@@ -29,7 +29,6 @@ footer {
 .social {
   display: inline-block;
   vertical-align: middle;
-  border: 2px solid red;
   width: 14%;
   min-width: 50px;  
 }
