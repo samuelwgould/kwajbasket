@@ -17,21 +17,20 @@
 }
   
 footer {
-      background-color: #cccccc;
-      padding: 20px;
-      display: grid;
-      text-align: center; 
-      overflow: auto;
-      align-content: space-evenly;
-      white-space: nowrap;
-      border-top: 1px solid black;
+  background-color: #cccccc;
+  padding: 20px;
+  display: grid;
+  text-align: center;     overflow: auto;
+  align-content: space-evenly;
+  white-space: nowrap;
+  border-top: 1px solid black;
     }
 
 .social {
   display: inline-block;
   vertical-align: middle;
-  width: 17%;
-  margin: 1px;
+  border: 2px solid red;
+  width: 14%;
   min-width: 50px;  
 }
 
@@ -52,8 +51,8 @@ footer {
 
 .container {
     display: inline-grid;
-    width: 300px;
-    height: 300px;
+    width: 100%;
+    height: 100%;
     min-width: 290px;
     min-height: 290px;
     margin: 10px;
@@ -70,8 +69,8 @@ footer {
   margin: auto;
   width: 100%;
   height: 100%;
-  max-height: 300px;
-  max-width: 300px;
+  min-height: 300px;
+  min-width: 300px;
   transition: .5s ease;
   backface-visibility: hidden;
   border: 1px solid black;
@@ -104,7 +103,7 @@ footer {
 
 
 #about {
-  background-image: url(https://i.imgur.com/xnLwKnf.jpg);
+  background-image: url(https://i.imgur.com/UjjoGiQ.jpg);
   background-size: cover;
   background-color: #e6e6e6;
   height: 800px;
@@ -122,17 +121,17 @@ footer {
   color:  #e6e6e6; 
   text-align: center;
   word-wrap: normal;
-  padding:  50px; 
-  text-shadow: 1px 1px black;
+  padding:  100px; 
+  text-shadow: .3px .3px black;
 }
 
 #pg2 {
     font-size: 1.3em;
-    color: ghostwhite; 
+    color: #e6e6e6; 
     text-align: center;
     word-wrap: normal;
     padding:  100px; 
-    text-shadow: .5px .5px black;
+    text-shadow: .3px .3px black;
     
 }
 
@@ -145,9 +144,8 @@ footer {
 }
 
 
-p {
-  font-family: 'Montserrat', Garamond, sans-serif; 
-  font-size: 1.2em;  
+p, h1, h2, h3, header, footer, a, li, div, #music {
+  font-family: 'Prompt', sans-serif;  
 }
 
 #copyright {
@@ -182,11 +180,9 @@ p {
   background-color: #101010;
   padding-top: 50px;
   padding-bottom: 50px;
-  
-  
-  
 }
 
 html {
     min-width: 600px;
+    background-color: #e6e6e6;
 }
