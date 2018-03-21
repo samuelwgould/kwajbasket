@@ -176,12 +176,16 @@ p, h1, h2, h3, header, footer, a, li, div, #music {
   background-image: url(https://i.imgur.com/iPH6r3U.jpg);
   background-size: cover;
   height: 700px;
-  background-color: #101010;
+  background-color: black;
   padding-top: 50px;
   padding-bottom: 50px;
 }
 
-html {
+html, .spotify {
     min-width: 600px;
-    background-color: #e6e6e6;
+    background-color: black;
+}
+
+.spotify {
+    padding-top: 25px;
 }
