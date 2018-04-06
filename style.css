@@ -1,19 +1,10 @@
-.navbar {
-      margin-bottom: 0;
-      border-radius: 0;
-      padding: 7px;
-      border-bottom: 1px solid black;
-    }
-
 
 .landing {
     margin-top: -20px;
-    border: 1px solid black;
-}
-   
+} 
 
 .bg-3 {
-  background-color: #e6e6e6; 
+  background-color: #cccccc;
 }
   
 footer {
@@ -23,7 +14,6 @@ footer {
   text-align: center;     overflow: auto;
   align-content: space-evenly;
   white-space: nowrap;
-  border-top: 1px solid black;
     }
 
 .social {
@@ -38,13 +28,13 @@ footer {
   transition: .4s ease;
 }
 
-
 .maingrid {
    display: flex;
    flex-wrap: wrap;
    text-align: center; 
    align-content: center;
    margin: auto;
+   background-color: #cccccc;
     
 }
 
@@ -58,7 +48,7 @@ footer {
     align-self: center;
     position: relative;
     overflow: hidden;
-    
+    background-color: #cccccc;
 }
 
 
@@ -102,9 +92,9 @@ footer {
 
 
 #about {
-  background-image: url(https://i.imgur.com/UjjoGiQ.jpg);
+  background-image: url(https://i.imgur.com/xnLwKnf.jpg);
   background-size: cover;
-  background-color: #e6e6e6;
+  background-color: #cccccc;
   height: 800px;
   width: auto;
   display: grid;
@@ -117,11 +107,11 @@ footer {
 
 #main {
   font-size: 1.5em;
-  color:  #e6e6e6; 
+  color:  #cccccc;
   text-align: center;
   word-wrap: normal;
   padding:  100px; 
-  text-shadow: .3px .3px black;
+ 
 }
 
 #pg2 {
@@ -129,16 +119,18 @@ footer {
     color: #e6e6e6; 
     text-align: center;
     word-wrap: normal;
-    padding:  100px; 
-    text-shadow: .3px .3px black;
-    
+    padding-left:  100px; 
+    padding-right: 100px;
+    position: absolute;
+    top: 30px;
 }
 
 #music {
     margin-top: 0px;
     font-size: 2em;
-    background-color: #e6e6e6;
+    background-color: #cccccc;
     padding: 30px;
+    margin-bottom: -1px;
     text-align: center;
 }
 
@@ -181,12 +173,7 @@ p, h1, h2, h3, header, footer, a, li, div, #music {
   padding-bottom: 50px;
 }
 
-html, .spotify {
+html{
     min-width: 600px;
-    background-color: black;
-}
-
-.spotify {
-    padding-top: 25px;
-    padding-bottom: 25px;
+    background-color: #cccccc;
 }
